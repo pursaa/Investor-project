@@ -1,0 +1,16 @@
+body{
+  background-color: lightyellow;
+}
+h1{
+  font-family: fantasy;
+  color: teal;
+}
+p{
+  color: darkgreen;
+}
+h3{
+  color: lightgreen;
+}
+ul{
+  color: teal;
+}
