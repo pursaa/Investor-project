@@ -1,16 +1,96 @@
-body{
-  background-color: lightyellow;
+/*SIMPLE RESET*/
+html, body, ul, ol, li, form, fieldset, legend
+{
+	margin: 0;
+	padding: 0;
 }
-h1{
-  font-family: fantasy;
-  color: teal;
+
+h1, h2, h3, h4, h5, h6, p { margin-top: 0; }
+
+fieldset,img { border: 0; }
+
+legend { color: #000; }
+
+li { list-style: none; }
+
+sup { vertical-align: text-top; }
+
+sub { vertical-align: text-bottom; }
+
+table
+{
+	border-collapse: collapse;
+	border-spacing: 0;
 }
-p{
-  color: darkgreen;
+
+caption, th, td
+{
+	text-align: left;
+	vertical-align: top;
+	font-weight: normal;
 }
-h3{
-  color: lightgreen;
+
+input, textarea, select
+{
+	font-size: 110%;
+	line-height: 1.1;
 }
-ul{
-  color: teal;
+
+abbr, acronym
+{
+	border-bottom: .1em dotted;
+	cursor: help;
+}
+
+
+/*MAIN PAGE*/
+.main {
+  background: url(../img/ittoqqortoormiit.jpg) no-repeat center center fixed;
+}
+
+.main-text {
+  margin: 0 auto;
+  margin-top: 200px;
+  padding: 10px;
+  background-color: black;
+  opacity: .5
+}
+
+.main-text h1,
+.main-text p {
+  color: #fff;
+  z-index: 1;
+}
+
+.main-text p {
+  font-variant: small-caps;
+}
+
+nav {
+  background-color: gray;
+  height: 34px;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  padding: 5px;
+  color: white;
+}
+
+/*ACCOMODATIONS*/
+
+.accomodations {
+  background: #34495e;
+  width: 100%;
+  height: 100%;
+}
+
+.accomodations-text {
+  color: #ccc;
 }
