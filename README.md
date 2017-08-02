@@ -1,12 +1,12 @@
 # _Ittoqqortoormiit_
 
-#### _{This is a website about Ittoqqortoormiit}, {August 1, 2017}_
+#### _This is a website about Ittoqqortoormiit, August 1, 2017_
 
-#### By _**{Luciano and Debbie}**_
+#### By _**Luciano and Debbie**_
 
 ## Description
 
-_{This is a website about Ittoqqortoormiit, a place located in eastern Greenland}_
+_This is a website about Ittoqqortoormiit, a place located in eastern Greenland_
 
 ## Setup/Installation Requirements
 
@@ -16,22 +16,22 @@ _{This is a website about Ittoqqortoormiit, a place located in eastern Greenland
 * _easy-to-understand_
 * _format_
 
-_{Just follow the links}_
+_Just follow the links_
 
 ## Known Bugs
 
-_{There are no know bugs at this time }_
+_There are no know bugs at this time_
 
 ## Support and contact details
 
-_{Contact Debbie Michel at debbiemichel1633@gmail.com}_
+_Contact Debbie Michel at debbiemichel1633@gmail.com_
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out._
 
 ### License
 
 *mit*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2016 **_Debbie Michel and Luciano Oliveira_**
